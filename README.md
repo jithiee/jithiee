@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/jithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jithin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jithin" target="blank"><img align="center" src="https://www.linkedin.com/in/jithin-a-connect//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithin" height="30" width="40" /></a>
 <a href="https://fb.com/jihtin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jihtin" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
