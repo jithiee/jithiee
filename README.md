@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jithin</h1>
+
+![logo](https://github.com/jithiee/jithiee/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+
 <h3 align="center">A passionate full-stack developer from India</h3>
 <!-- <img  align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" > -->
 
@@ -172,11 +174,11 @@
     
   </tr>
 </table>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithiee&" alt="jithiee" /></p>
 <p><img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithiee&show_icons=true&locale=en&layout=compact" alt="jithiee" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithiee&" alt="jithiee" /></p>
+
 
 
 ---
