@@ -5,6 +5,7 @@
 <!-- <img  align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithiee&label=Profile%20views&color=0e75b6&style=flat" alt="jithiee" /> </p>
+<h3 align="left">About Me</h3> 
 
 - 🔭 I’m currently working on **Python and Reactjs  Project**
 
@@ -174,8 +175,9 @@
     
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithiee&" alt="jithiee" /></p>
+
 <p><img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithiee&show_icons=true&locale=en&layout=compact" alt="jithiee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithiee&" alt="jithiee" /></p>
 
 
 
