@@ -175,7 +175,6 @@
 
 <p><img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithiee&show_icons=true&locale=en&layout=compact" alt="jithiee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithiee&show_icons=true&locale=en" alt="jithiee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithiee&" alt="jithiee" /></p>
 
